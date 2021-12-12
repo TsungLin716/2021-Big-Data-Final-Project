@@ -12,7 +12,7 @@ Here we use Jaccard Similarity to determine the similarity between our assigned 
 ## 4. Calculate the *Precision* and *Recall* of the unimproved and improved cleaning methods.
 A jupyter notebook (evaluation.ipynb) is created to calculate and compare the precision and recall of the unimproved and improved cleaning methods. To calculate the precision and recall of the results, please follow the steps below:
 1. Make sure the csv files are in the same directory evaluation.ipynb is located.
-    a. raw.csv is the file containing the raw, uncleaned data.
-    b. groundTruth.csv is the file containing the corrected data.
-    c. unimproved_result.csv is the file containing the data cleaned by unimproved cleaning method.
-    d. improved_result.csv is the file containing the data cleaned by improved cleaning method.
+2. raw.csv is the file containing the raw, uncleaned data.
+3. groundTruth.csv is the file containing the corrected data.
+4. unimproved_result.csv is the file containing the data cleaned by unimproved cleaning method.
+5. improved_result.csv is the file containing the data cleaned by improved cleaning method.
