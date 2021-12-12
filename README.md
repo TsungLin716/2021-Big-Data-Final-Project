@@ -24,3 +24,6 @@ The structure of this project is as below:
 
 ## How to run the project?
 You can follow the Readme.md in folder **part1** and **part2** to run the code. We suggest you start from **part1**
+
+## Result
+You can take a look at FinalReport.pdf
