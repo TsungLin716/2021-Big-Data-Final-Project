@@ -6,8 +6,16 @@ Here we use Jaccard Similarity to determine the similarity between our assigned 
 4. execute "hfs -getmerge similarityRank.out similarityRank.csv" to retrieve the result
 
 ## 2. Fix the sample dataset with unimproved cleaning methods
+1. go to the file "unimproved_cleaning_methods"
+2. execute each jupyter notebook file(.ipynb), make sure to run the files under this directory.
+3. you will see that there are 10 files"[name_of_dataset]_ program_modify.csv", open them and you will see the result run by unimproved cleaning method.
+
 
 ## 3. Fix the sample dataset with improved cleaning methods
+1. go to the file "improved_cleaning_methods"
+2. execute the jupyter notebook file "improved_method.ipynb", make sure to run the file under this directory
+3. you will see that there is a file "improved_result.csv" which is the result after applying the new cleaning method, we will be using this file at 
+   at the evaluation step.
 
 ## 4. Calculate the *Precision* and *Recall* of the unimproved and improved cleaning methods.
 A jupyter notebook (evaluation.ipynb) is created to calculate and compare the precision and recall of the unimproved and improved cleaning methods. To calculate the precision and recall of the results, please follow the steps below:
