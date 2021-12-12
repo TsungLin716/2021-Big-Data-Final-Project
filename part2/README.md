@@ -16,3 +16,4 @@ A jupyter notebook (evaluation.ipynb) is created to calculate and compare the pr
 3. groundTruth.csv is the file containing the corrected data.
 4. unimproved_result.csv is the file containing the data cleaned by unimproved cleaning method.
 5. improved_result.csv is the file containing the data cleaned by improved cleaning method.
+6. Open evaluation.ipynb and execute.
